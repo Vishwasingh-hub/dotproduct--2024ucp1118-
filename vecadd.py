@@ -21,3 +21,6 @@ print(f"Dot Product: {dot_product_result}")
 print("Debug: starting dot product calculation")
 
 
+printf("this is the change ranveer has done in your code")
+
+
